@@ -1,4 +1,4 @@
-module github.com/pomerium/sdk-go
+module github.com/mworzala/pomerium-sdk
 
 go 1.18
 
